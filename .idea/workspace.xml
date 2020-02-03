@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e61e5e-7332-46f4-9fa2-eb30e48e89d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/filip" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/NethLumiere/ZadanieSolteq.git" />
+        <option value="https://github.com/NethLumiere/ZadanieSolteqFilipKazimierczak.git" />
+        <option value="https://github.com/NethLumiere/Zadanieasd.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJ59ZEAaJFWniHnMCMhsGP91rs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/filip" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.filip.Main" />
+      <module name="Zadanie" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e61e5e-7332-46f4-9fa2-eb30e48e89d1" name="Default Changelist" comment="" />
+      <created>1580751205834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580751205834</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Zadanie na rekrutacje Solteq">
+      <created>1580770169194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580770169194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zadanie na rekrutacje Solteq" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie na rekrutacje Solteq" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="999" y="127" width="691" height="804" key="CommitChangelistDialog2" timestamp="1580770168820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="999" y="127" width="691" height="804" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580770168820" />
+    <state x="760" y="306" key="FileChooserDialogImpl" timestamp="1580767603945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580767603945" />
+    <state x="1322" y="418" width="260" height="211" key="Github.ShareDialog" timestamp="1580773071032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1322" y="418" width="260" height="211" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580773071032" />
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.0.center" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.0.left" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.0.right" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1580770384505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580770384505" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580767523085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580767523085" />
+    <state x="790" y="390" key="VCS.EditChangelistDialog" timestamp="1580773033376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="390" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580773033376" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580774048477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580774048477" />
+    <state x="1016" y="257" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580769236280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1016" y="257" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1580769236280" />
+    <state x="685" y="145" key="new project wizard" timestamp="1580770382330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580770382330" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580751419016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580751419016" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zadanie$Main.ic" NAME="Main Coverage Results" MODIFIED="1580768000653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
